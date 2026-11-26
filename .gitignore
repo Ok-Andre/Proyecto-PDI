@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+build/
+dist/
+*.egg-info/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+
+# Herramientas y editores
+.vscode/
+.idea/
+.spyderproject
+.spyproject
+.ipynb_checkpoints/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Resultados generados por el script
+resultados/
